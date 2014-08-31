@@ -1,5 +1,9 @@
 The stuff that struck me as important for some reason.
 
+Day 1 -
+
+use irb to launch interactive ruby.
+
 One quote around a string means the string should be interpreted literally.  Two quotes leads to string evaluation.
 
 Interest choice on how to implement the single line conditional statement.  I like the way the conditional is at the end of the line and not the beginnging.
@@ -9,4 +13,16 @@ Interest choice on how to implement the single line conditional statement.  I li
 
 Ruby has Duck Typing
 	ex. myArray = ['100', 100] is ok.
+
+
+Day 2 - 
+
+Every function has to return something.  If there isn't an explicit return statement, then the result of the last statement is returned.
+
+Function are objects, like everything else in ruby.
+
+A symbol is an identifier preceded with a colon, like :symbol.
+	In my mind, this is a reference to an object.
+
+
 
