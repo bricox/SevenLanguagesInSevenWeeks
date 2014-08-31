@@ -1,0 +1,12 @@
+The stuff that struck me as important for some reason.
+
+One quote around a string means the string should be interpreted literally.  Two quotes leads to string evaluation.
+
+Interest choice on how to implement the single line conditional statement.  I like the way the conditional is at the end of the line and not the beginnging.
+  ex. puts 'This appears to be true.' if x == 4
+
+0 is true.  Everything but zero and nil are true.
+
+Ruby has Duck Typing
+	ex. myArray = ['100', 100] is ok.
+
